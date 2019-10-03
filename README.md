@@ -1,2 +1,2 @@
 # Bubble-Sorting
-this program performs bubble sorting using c language
+This program performs bubble sort using c language
